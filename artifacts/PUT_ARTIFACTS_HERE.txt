@@ -1,0 +1,2 @@
+Unzip app_artifacts.zip from the executed Milestone 3 notebook into this folder.
+After unzipping, artifacts/model_lgbm.txt must exist.

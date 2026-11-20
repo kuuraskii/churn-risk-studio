@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw KKBOX competition data must never be pushed (rules forbid sharing it)
+data/
+*.7z
+train.csv
+train_v2.csv
+members_v3.csv
+transactions.csv
+transactions_v2.csv
+user_logs.csv
+user_logs_v2.csv
+sample_submission*.csv
+
+# Keep the downloaded zip out, the unzipped artifacts/ folder IS committed
+app_artifacts.zip
+
+# Local secrets
+.streamlit/secrets.toml
