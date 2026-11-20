@@ -13,7 +13,7 @@ The app answers three questions: who is likely to leave, why, and whether a rete
 | What drives churn | Overall SHAP importance, churn rate by segment, February vs March drift |
 | About and limits | Data source, assumptions and limitations |
 
-Team: Atul, Aditi and Riya (M.Tech, BIT Mesra).
+Team: Atul, Aditi and Riya (B.Tech, Bennett University).
 
 ## Folder layout
 
